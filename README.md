@@ -1,1 +1,1 @@
-# SMU-MSDS
+# MSDS (Masters of Data Science)
